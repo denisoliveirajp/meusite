@@ -25,6 +25,10 @@ header img{
 h1{
     color: mediumseagreen;
 }
+#proj{
+    text-align: left;
+    color: mediumseagreen;
+}
 footer img{
     width: 40px;
     height: 40px;
