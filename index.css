@@ -46,17 +46,18 @@ footer p{
 nav a:hover{
     color: mediumseagreen;
 }
-.contact-form input{
+.card input{
     width: 100%;
     padding: 8px 0px;
     margin: 8px 0px;
 }
-.contact-form input[type=text]{
+.card textarea{
+    width: 100%;
     height: 100px;
 }
 button{
     background-color: white;
     border: none;
-    width: 100px;
-    height: 30px;
+    width: 150px;
+    height: 40px;
 }
